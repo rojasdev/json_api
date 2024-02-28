@@ -14,8 +14,4 @@
   {"emp_name":"employee13","emp_no":"101712","emp_img":"https://raw.githubusercontent.com/rojasdev/json_api/main/chat.png"},
   {"emp_name":"employee14","emp_no":"101713","emp_img":"https://raw.githubusercontent.com/rojasdev/json_api/main/chat.png"},
   {"emp_name":"employee15","emp_no":"101712","emp_img":"https://raw.githubusercontent.com/rojasdev/json_api/main/chat.png"}
-],
-"details": [
-  {"emp_name":"Maria Luna","emp_no":"101700","emp_address":"Bangga Lasalle"},
-  {"emp_name":"Emp 2","emp_no":"101701","emp_address":"Bangga Dalan"}
 ]}
